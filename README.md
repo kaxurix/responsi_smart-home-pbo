@@ -59,5 +59,5 @@ java Main
 
 ## Screenshot Output
 
-![Output Program](screenshots/img.png)
-![Output Program](screenshots/img_1.png)
+![Output Program](Screenshots/img.png)
+![Output Program](Screenshots/img_1.png)
